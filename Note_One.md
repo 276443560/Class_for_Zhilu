@@ -26,3 +26,9 @@
    - The third question is on our way. The famous gene candidates are TP53 and KRAS, yet the genome-wide landscape is largely unknown.
 3. Find your position in one team.
    - Nobody can master all the knowledge in bioinformatics, but you need take your advantage to help your team.
+## My future plan
+1.  Take advantage the resources provided by teacher
+   - Dr. Lu provide plenty of files and videos online, I should check the list clearly and make my own notes about them.
+   - I should also use text book to level up.
+2. Develop my habbit of coding.
+   - This is my first time using Github and Markdown, this habbit is crucial for self learning after class, I should stick on this note book.
